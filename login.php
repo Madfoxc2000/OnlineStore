@@ -40,7 +40,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
                     </div>
                     <div class="mb-3">
                         <label for="password">Password</label>
-                        <input type="text" name="password" class="form-control" id="password" placeholder="Password">
+                        <input type="password" name="password" class="form-control" id="password" placeholder="Password">
                     </div>
                 
                     <button type="submit" class="btn btn-primary">Login</button>
