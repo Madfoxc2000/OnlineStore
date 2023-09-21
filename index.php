@@ -7,10 +7,10 @@
 ?>
 <div class="row">
     <?php foreach ($products as $product): ?>
-        <div class="col-md-4">
+        <div class="col-md-3">
             <div class="card">
                 <!-- ?= je skraceno echo -->
-                <img src="images/<?=$product['image']?>" class="card-img-top" alt="images/<?=$product['name']?>">
+                <img src="public/product_images/<?=$product['image']?>" class="card-img-top" alt="images/<?=$product['name']?>">
                 <div class="card-body">
                     <h5 class="card-title"><?=$product['name'] ?></h5>
                     <p class="card-text">Size:<?=$product['size'] ?></p>
