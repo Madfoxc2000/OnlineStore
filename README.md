@@ -1,1 +1,1 @@
-This is web app for online store , made in php
+The Online Store PHP application is a dynamic and feature-rich e-commerce system designed to facilitate online buying and selling. Built using PHP, JavaScript, HTML, CSS, and MySQL, this application provides a robust platform for businesses to showcase and sell their products online.
